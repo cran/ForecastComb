@@ -1,7 +1,7 @@
 Package: ForecastComb
 Type: Package
 Title: Forecast Combination Methods
-Version: 1.1
+Version: 1.2
 Depends: R (>= 3.0.2)
 Imports: forecast (>= 7.3), ggplot2 (>= 2.1.0), Matrix (>= 1.2-6),
         mtsdi (>= 0.3.3), psych (>= 1.6.9), quadprog (>= 1.5-5),
@@ -21,6 +21,6 @@ License: GPL (>= 2)
 LazyData: true
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2017-12-16 04:13:31 UTC; gernot
+Packaged: 2018-05-16 18:04:37 UTC; gernot
 Repository: CRAN
-Date/Publication: 2017-12-17 16:49:19 UTC
+Date/Publication: 2018-05-17 21:30:14 UTC
